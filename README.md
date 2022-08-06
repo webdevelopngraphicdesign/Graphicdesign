@@ -1,2 +1,2 @@
-# webdevelopngraphicdesign.github.io
+# Graphic Design
 Web develop for everyone
